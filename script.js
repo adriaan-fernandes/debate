@@ -6,28 +6,28 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Qual as seguintes afirmações é verdadeira sobre a relação entre a conservação da biodiversidade, florestas e água",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "A conservação das florestas e a gestão sustentavél dos recursos hidricos são essenciais para a conservação da biodiversidade.",
+                afirmacao: "A conservação das florestas e a gestão sustentavel dos recursos hídricos são fundamentais para a biodiversidade, pois as florestas fornecem habitats, essenciais e regulam a água. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "A conservação da biodiversidade pode ser alcançada independente da saúde das florestas e da gestão dos resursos hídricos.",
+                afirmacao: "A conservação da biodiversidade não pode ser alcançada sem considerar a saúde das florestas e a gestão dos recursos hídricos."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Como a conservação das florestas pode impactar a biodiversidade e os recursos hídricos em uma região?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "A região implementa politicas rigorosas de conservação florestal",
+                afirmacao: "Isso ai protege os habitates naturais, promovendo a bio diveridade."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "A região permite o desmatamento para atividades economicas.",
+                afirmacao: "Prtejudica o ciclo da água causando erosão, deterioração da qualidade e diminuição dos recursos hídricos"
             }
         ]
     },
